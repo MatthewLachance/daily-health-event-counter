@@ -1,13 +1,4 @@
 /* Hide GitHub Pages header/title block */
-.site-header {
-    display: none !important;
-}
-
-/* Fallbacks for some themes */
-.page-header {
-    display: none !important;
-}
-
-header.page-header {
+.container-lg.markdown-body > :first-child {
     display: none !important;
 }
