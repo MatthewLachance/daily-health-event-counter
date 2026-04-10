@@ -72,9 +72,9 @@ The following features may require an upgrade to the Pro tier.
 
 Use Export to backup your historical data. For privacy reasons, data is not stored on servers. 
 
-Why back up? In the situation where you change phones or you accidently clear the app data via Android settings, the history will be erased. 
+Why back up? In the situation where you change phones or you accidently clear the app data via Android settings, the history will be lost. 
 
-For best practice, periodically using Export to back up.
+To safeguard against this, periodically using Export for backup.
 
 Tapping **Export** will prompt to share a CSV (comma separated values) file with other apps on your phone. 
 
@@ -85,12 +85,12 @@ Alternatively, you may wish to share to an email app (e.g. Gmail) and send the C
 Steps to Export historical data to Google Drive:
 - Tap the **Export** button
 - Select the Google Drive app
-- Tap **Upload** to save CSV data file to the Google server
+- Tap **Upload** to save CSV data file to the Google Drive server
 
 Steps to Export historical data to Gmail:
 - Tap the **Export** button
-- Select the Gmail app and notice email subject and attachment CSV file
-- Enter a "To" value and touch Send to forward the data to a target email address (e.g. yourself)
+- Select the Gmail app and notice a draft email with appropriate subject and attached CSV file
+- Enter a **To** value and touch Send to forward the data to a target email address (e.g. yourself)
 
 
 *Advanced Usage:*
