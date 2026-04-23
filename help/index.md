@@ -8,9 +8,11 @@
 
 <details>
   <summary><strong>About this App</strong></summary>
-<br>
+<br>  
+<p>
 Ideal for monitoring symptoms, habits, or medical tracking between appointments.
-  
+</p>
+
 Key Features:
 <ul>
   <li>One-tap event tracking throughout the day</li>
@@ -44,26 +46,37 @@ All data is saved locally on your phone.
   <summary><strong>How to Adjust Daily Counter</strong></summary>
 <br>
   
-- Tap **<span style="font-size: 18px;">+</span>** to add one to the counter
-- Tap **<span style="font-size: 18px;">-</span>** to reduce the counter by one
-- Use **Reset** to set the counter back to zero (you’ll be asked to confirm)
-- Use **Clear data** to remove all entries for this day (you’ll be asked to confirm)
+<ul>
+  <li>Tap <strong><span style="font-size: 18px;">+</span></strong> to add one to the counter</li>
+  <li>Tap <strong><span style="font-size: 18px;">-</span></strong> to reduce the counter by one</li>
+  <li>Use <strong>Reset</strong> to set the counter back to zero (you’ll be asked to confirm)</li>
+  <li>Use <strong>Clear data</strong> to remove all entries for this day (you’ll be asked to confirm)</li>
+</ul>
 
-*Note:* 
-- The counter automatically clears when a new day starts (midnight)
-- Your previous day counter value is saved for use in observing trend (history).
+*Note:*
+
+<ul>
+  <li>The counter automatically clears when a new day starts (midnight)</li>
+  <li>Your previous day counter value is saved for use in observing trend (history).</li>
+</ul>
 </details>
 
 <details>
   <summary><strong>How to View History</strong></summary>
 <br>
   
-- Tap the **History** button to view a trend of events over time
-- The graph shows the total event values (y-axis) on a daily basis (x-axis)
+<ul>
+  <li>Tap the <strong>History</strong> button to view a trend of events over time</li>
+  <li>The graph shows the total event values (y-axis) on a daily basis (x-axis)</li>
+</ul>
 
 *Note:*
-- The history graph may be best viewed in landscape mode (rotate your phone)
-- A minimum of two recorded days is required before a graph is rendered
+
+<ul>
+  <li>The history graph may be best viewed in landscape mode (rotate your phone)</li>
+  <li>A minimum of two recorded days is required before a graph is rendered</li>
+</ul>
+
 </details>
 
 <!-- Anchor target -->
@@ -74,9 +87,11 @@ All data is saved locally on your phone.
 
 The following features may require an upgrade to the Pro tier.
 
-- Edit past days
-- Export data (to CSV format)
-- Import data
+<ul>
+  <li>Edit past days</li>
+  <li>Export data (to CSV format)</li>
+  <li>Import data</li>
+</ul>
 
 To upgrade, tap the "i" (information) button in the app.
 </details>
@@ -85,8 +100,10 @@ To upgrade, tap the "i" (information) button in the app.
   <summary><strong>How to View or Edit Past Days</strong></summary>
 <br>
 
-- Tap the **Today** button and pick a past day to view
-- To edit a past day, first view it as above then tap the **pencil** icon
+<ul>
+  <li>Tap the <strong>Today</strong> button and pick a past day to view</li>
+  <li>To edit a past day, first view it as above then tap the <strong>pencil</strong> icon</li>
+</ul>
 </details>
 
 <details>
@@ -104,15 +121,19 @@ Share with the Google Drive app to save history in your private Google account o
 
 Alternatively, you may wish to share to an email app (e.g. Gmail) and send the CSV file as an attachment.
 
-Steps to Export historical data to Google Drive:
-- Tap the **Export** button
-- Select the Google Drive app
-- Tap **Upload** to save CSV data file to the Google Drive server
+<p>Steps to Export historical data to Google Drive:</p>
+<ul>
+  <li>Tap the <strong>Export</strong> button</li>
+  <li>Select the Google Drive app</li>
+  <li>Tap <strong>Upload</strong> to save CSV data file to the Google Drive server</li>
+</ul>
 
-Steps to Export historical data to Gmail:
-- Tap the **Export** button
-- Select the Gmail app and notice a draft email with appropriate subject and attached CSV file
-- Enter a **To** value and touch **Send** to forward the information to an email address
+<p>Steps to Export historical data to Gmail:</p>
+<ul>
+  <li>Tap the <strong>Export</strong> button</li>
+  <li>Select the Gmail app and notice a draft email with appropriate subject and attached CSV file</li>
+  <li>Enter a <strong>To</strong> value and touch <strong>Send</strong> to forward the information to an email address</li>
+</ul>
 
 
 *Advanced Usage:*
