@@ -1,11 +1,16 @@
 # Help – Daily Health Event Counter App for Android
 
-#### Quick Start ####
-- Tap **<span style="font-size: 18px;">+</span>** to record a health event
-- Use the **Today** (date picker) button to view or edit past days
-- Tap **History** to see trends
-- Each day at midnight, the event count clears after saving previous day
-
+<details open>
+  <summary><strong>Quick Start</strong></summary>
+<br>
+  
+<ul>
+<li>Tap <strong>+</strong> to record a health event</li>
+<li>Use the <strong>Today</strong> button to view or edit past days</li>
+<li>Tap <strong>History</strong> to see trends</li>
+<li>Each day at midnight, the event count clears after saving previous day</li>
+</ul>
+  
 <details>
   <summary><strong>About this App</strong></summary>
 <br> 
