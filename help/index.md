@@ -82,7 +82,7 @@ All data is saved locally on your phone.
 <details>
   <summary><strong>Pro Features</strong></summary>
 <a id="pro-features"></a>
-
+<br>
 The following features may require an upgrade to the Pro tier.
 
 <ul>
