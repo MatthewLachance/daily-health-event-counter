@@ -153,5 +153,9 @@ Tap <strong>Import</strong> to recover previously backed up history or to load h
 
 <p>A reset adjusts the counter to zero. A clearing of data removes data recorded for that day. For history (trends) it may be important to distinguish between days that have zero events and days where no events were recorded.</p>
 
+<strong>Is there a privacy policy for this app?</strong>
+
+<p>Yes, you can find the privacy policy <a href="https://matthewlachance.github.io/daily-health-event-counter/">here</a></p>
+
 </details>
 
