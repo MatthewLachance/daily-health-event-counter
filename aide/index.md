@@ -1,151 +1,156 @@
-# Help – Daily Health Event Counter App for Android
+# Aide – Application Daily Health Event Counter pour Android
 
-#### Quick Start ####
-- Tap **<span style="font-size: 18px;">+</span>** to record a health event
-- Use the **Today** (date picker) button to view or edit past days
-- Tap **History** to see trends
-- Each day at midnight, the event count clears after saving previous day
-
-<details>
-  <summary><strong>About this App</strong></summary>
-<br>
-Ideal for monitoring symptoms, habits, or medical tracking between appointments.
+<details open>
+  <summary><strong>Démarrage rapide</strong></summary>
+<ul>
+<li>Appuyez sur <strong>+</strong> pour enregistrer un événement de santé</li>
+<li>Utilisez le bouton <strong>Aujourd’hui</strong> pour consulter ou modifier les jours passés</li>
+<li>Appuyez sur <strong>Historique</strong> pour voir les tendances</li>
+<li>Chaque jour à minuit, le compteur est enregistré puis réinitialisé pour commencer une nouvelle journée</li>
+</ul>
+</details>
   
-Key Features:
-- One-tap event tracking throughout the day
-- Automatic daily reset with history preserved
-- View trends over time with built-in history line graph
-- Review and edit past days easily
-- Big buttons for easy over night use
-- Export data for backup or to paste into spreadsheet
-- Import CSV file to load the app with historical data
-- Export then Import when changing phones
-- Works offline — no account required
-- No data sharing — your information stays on your device
-- App languages: English, français
+<details>
+  <summary><strong>À propos de cette application</strong></summary>
+<br> 
+Idéale pour surveiller des symptômes, des habitudes ou effectuer un suivi médical entre les rendez-vous.
 
-Use Cases
-- Track daily symptoms (bathroom visits, pain, headache frequency, etc.)
-- Monitor habits or recovery progress
-- Provide accurate data to healthcare providers
-- Or just count things (with daily history)
+<p>Fonctionnalités principales :</p>
+<ul>
+  <li>Suivi des événements en un seul geste tout au long de la journée</li>
+  <li>Réinitialisation quotidienne automatique avec historique conservé</li>
+  <li>Visualisation des tendances dans le temps avec un graphique intégré</li>
+  <li>Consultation et modification faciles des jours passés</li>
+  <li>Grands boutons pour une utilisation facile la nuit</li>
+  <li>Exportation de l’historique pour sauvegarde ou utilisation dans un tableur</li>
+  <li>Importation de fichiers CSV pour charger l’historique dans l’application</li>
+  <li>Exporter puis importer lors d’un changement de téléphone</li>
+  <li>Fonctionne hors ligne — aucun compte requis</li>
+  <li>Aucun partage de données — vos informations restent sur votre appareil</li>
+  <li>Langues de l’application : English, français</li>
+</ul>
 
-This app is ideal for personal tracking and for sharing accurate data with healthcare professionals when needed.
+Cas d’utilisation
+<ul>
+  <li>Suivre les symptômes quotidiens (visites aux toilettes, douleur, fréquence des maux de tête, etc.)</li>
+  <li>Surveiller des habitudes ou les progrès de récupération</li>
+  <li>Fournir des données précises aux professionnels de santé</li>
+  <li>Ou simplement compter des événements (avec historique quotidien)</li>
+</ul>
 
-All data is saved locally on your phone.
+Cette application est idéale pour un suivi personnel et pour partager des données précises avec des professionnels de santé si nécessaire.
+
+Toutes les données sont enregistrées localement sur votre téléphone.
 
 </details>
 
 <details>
-  <summary><strong>How to Adjust Daily Counter</strong></summary>
-<br>
-  
-- Tap **<span style="font-size: 18px;">+</span>** to add one to the counter
-- Tap **<span style="font-size: 18px;">-</span>** to reduce the counter by one
-- Use **Reset** to set the counter back to zero (you’ll be asked to confirm)
-- Use **Clear data** to remove all entries for this day (you’ll be asked to confirm)
+  <summary><strong>Comment ajuster le compteur quotidien</strong></summary>
+<ul>
+  <li>Appuyez sur <strong>+</strong> pour ajouter une unité au compteur</li>
+  <li>Appuyez sur <strong>-</strong> pour réduire le compteur d’une unité</li>
+  <li>Utilisez <strong>Réinitialiser</strong> pour remettre le compteur à zéro (une confirmation vous sera demandée)</li>
+  <li>Utilisez <strong>Effacer les données</strong> pour supprimer toutes les entrées de la journée (une confirmation vous sera demandée)</li>
+</ul>
 
-*Note:* 
-- The counter automatically clears when a new day starts (midnight)
-- Your previous day counter value is saved for use in observing trend (history).
+<strong>Remarque :</strong>
+
+<ul>
+  <li>Le compteur est automatiquement réinitialisé au début d’une nouvelle journée (minuit)</li>
+  <li>La valeur du compteur de la veille est enregistrée pour l’observation des tendances (historique).</li>
+</ul>
 </details>
 
 <details>
-  <summary><strong>How to View History</strong></summary>
-<br>
-  
-- Tap the **History** button to view a trend of events over time
-- The graph shows the total event values (y-axis) on a daily basis (x-axis)
+  <summary><strong>Comment consulter l’historique</strong></summary>
+<ul>
+  <li>Appuyez sur le bouton <strong>Historique</strong> pour visualiser les tendances au fil du temps</li>
+  <li>Le graphique affiche le total des événements (axe Y) sur une base quotidienne (axe X)</li>
+  <li>Le graphique est plus lisible en mode paysage (faites pivoter votre téléphone)</li>
+  <li>Un minimum de deux jours enregistrés est requis pour afficher un graphique</li>
+</ul>
 
-*Note:*
-- The history graph may be best viewed in landscape mode (rotate your phone)
-- A minimum of two recorded days is required before a graph is rendered
 </details>
 
-<!-- Anchor target -->
+<details>
+  <summary><strong>Fonctionnalités Pro</strong></summary>
 <a id="pro-features"></a>
-<details>
-  <summary><strong>Pro Features</strong></summary>
 <br>
+Les fonctionnalités suivantes peuvent nécessiter une mise à niveau vers la version Pro.
 
-The following features may require an upgrade to the Pro tier.
+<ul>
+  <li>Modifier les jours passés</li>
+  <li>Exporter l’historique (au format CSV)</li>
+  <li>Importer l’historique depuis d’autres sources</li>
+</ul>
 
-- Edit past days
-- Export data (to CSV format)
-- Import data
-
-To upgrade, tap the "i" (information) button in the app.
+Pour effectuer la mise à niveau, appuyez sur le bouton "i" (information) dans l’application.
 </details>
 
 <details>
-  <summary><strong>How to View or Edit Past Days</strong></summary>
-<br>
-
-- Tap the **Today** button and pick a past day to view
-- To edit a past day, first view it as above then tap the **pencil** icon
+  <summary><strong>Comment consulter ou modifier les jours passés</strong></summary>
+<ul>
+  <li>Appuyez sur le bouton <strong>Aujourd’hui</strong> et sélectionnez un jour passé à consulter</li>
+  <li>Pour modifier un jour passé, affichez-le puis appuyez sur l’icône <strong>crayon</strong></li>
+</ul>
 </details>
 
 <details>
-  <summary><strong>How to Export</strong></summary>
+  <summary><strong>Comment exporter</strong></summary>
 <br>
-Use Export to backup your historical data. For privacy reasons, data is not stored on servers. 
+Utilisez l’exportation pour sauvegarder votre historique. Pour des raisons de confidentialité, les données ne sont pas stockées sur des serveurs. 
 
-Why back up? In the situation where you change phones or you accidently clear the app data via Android settings, the history will be lost. 
+<p>Pourquoi sauvegarder ? Lorsque vous changez de téléphone ou si vous effacez accidentellement les données de l’application, l’historique sera perdu.</p>
 
-To safeguard against this, periodically use Export for backup.
+<p>Pour éviter cela, utilisez régulièrement l’exportation pour effectuer une sauvegarde.</p>
 
-Tapping **Export** will prompt to share a CSV (comma separated values) file with other apps on your phone. 
+<p>Appuyer sur <strong>Exporter</strong> vous permettra de partager un fichier CSV (valeurs séparées par des virgules) avec d’autres applications sur votre téléphone.</p>
 
-Share with the Google Drive app to save history in your private Google account on Google servers.
+<p>Étapes pour exporter et sauvegarder l’historique sur votre compte Google</p>
+<ul>
+  <li>Appuyez sur le bouton <strong>Exporter</strong></li>
+  <li>Sélectionnez l’application <strong>Google Drive</strong></li>
+  <li>Appuyez sur <strong>Téléverser</strong> pour enregistrer le fichier CSV sur les serveurs Google</li>
+</ul>
 
-Alternatively, you may wish to share to an email app (e.g. Gmail) and send the CSV file as an attachment.
+<p>Étapes pour exporter et sauvegarder l’historique par courriel :</p>
+<ul>
+  <li>Appuyez sur le bouton <strong>Exporter</strong></li>
+  <li>Sélectionnez une application de courriel comme <strong>Gmail</strong>. Un brouillon sera créé avec un objet approprié et le fichier CSV en pièce jointe</li>
+  <li>Entrez une valeur dans <strong>À</strong> et appuyez sur <strong>Envoyer</strong> pour transmettre les informations à une adresse courriel</li>
+</ul>
 
-Steps to Export historical data to Google Drive:
-- Tap the **Export** button
-- Select the Google Drive app
-- Tap **Upload** to save CSV data file to the Google Drive server
+<strong>Utilisation avancée :</strong>
 
-Steps to Export historical data to Gmail:
-- Tap the **Export** button
-- Select the Gmail app and notice a draft email with appropriate subject and attached CSV file
-- Enter a **To** value and touch **Send** to forward the information to an email address
+<p>Le fichier CSV exporté peut également être importé dans un tableur tel que <strong>Google Sheets</strong> ou <strong>Microsoft Excel</strong>. Cela permet d’intégrer ces données avec d’autres ou de créer des graphiques plus avancés.</p>
 
-
-*Advanced Usage:*
-
-The exported CSV file can also be used to load into a spreadsheet program such as Google Sheets or Microsoft Excel. This will allow you to integrate with other data or build more complex charts and graphs.
-
-The format of the contents of the CSV text file is simple:
-
-date,count<br>
-YYYY-MM-DD,nn<br>
-YYYY-MM-DD,nn<br>
-...
-
-The first line of the CSV file are headers "date,count" and each line afterwards will represent the event count for a given date.
-
-For example, a CSV file with entries like this ...
+<p>Le format du fichier CSV est :</p>
 
 date,count<br>
 2026-01-01,5<br>
 2026-01-03,17<br>
+...
 
-... will import two dates (January 1, 2026 and January 3, 2026) of historical data into the app.
+<p>où le nombre après la date correspond au total des événements pour ce jour.</p>
 </details>
 
 <details>
-  <summary><strong>How to Import</strong></summary>
+  <summary><strong>Comment importer</strong></summary>
 <br>
-Use Import to recover previously backed up event counts or to load historical daily event counts from another source. 
+Appuyez sur <strong>Importer</strong> pour restaurer un historique précédemment sauvegardé ou charger des données depuis une autre source. 
 
-The format of the file expected by Import is the same as described above for Export. Be sure to include the header line exactly as above and dates that are in the past (not future).
+<p>Le format du fichier .csv attendu est identique à celui décrit ci-dessus pour l’exportation. Assurez-vous d’inclure la ligne d’en-tête exactement comme indiqué et que les dates soient dans le passé (pas dans le futur).</p>
+
+<p>Notez que l’importation remplace les données existantes ayant les mêmes dates.</p>
+
 </details>
 
 <details>
   <summary><strong>FAQ</strong></summary>
 <br>
 
-**What's the difference between resetting the counter for the day and clearing the counter for the day?**
+<strong>Quelle est la différence entre réinitialiser le compteur et effacer les données de la journée ?</strong>
 
-A reset adjusts the counter to zero. A clearing of data removes data recorded for that day. For history (trends) it may be important to distinguish between days that have zero events and days where no events were  recorded.
+<p>La réinitialisation remet le compteur à zéro. L’effacement supprime les données enregistrées pour la journée. Pour l’historique (tendances), il est important de distinguer les jours avec zéro événement des jours sans données enregistrées.</p>
+
 </details>
