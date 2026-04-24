@@ -48,8 +48,6 @@ All data is saved locally on your phone.
 
 <details>
   <summary><strong>How to Adjust Daily Counter</strong></summary>
-<br>
-  
 <ul>
   <li>Tap <strong>+</strong> to add one to the counter</li>
   <li>Tap <strong>-</strong> to reduce the counter by one</li>
@@ -68,7 +66,6 @@ All data is saved locally on your phone.
 <details>
   <summary><strong>How to View History</strong></summary>
 <br>
-  
 <ul>
   <li>Tap the <strong>History</strong> button to view a trend of events over time</li>
   <li>The graph shows the total event values (y-axis) on a daily basis (x-axis)</li>
@@ -101,7 +98,6 @@ To upgrade, tap the "i" (information) button in the app.
 <details>
   <summary><strong>How to View or Edit Past Days</strong></summary>
 <br>
-
 <ul>
   <li>Tap the <strong>Today</strong> button and pick a past day to view</li>
   <li>To edit a past day, first view it then tap the <strong>pencil</strong> icon</li>
