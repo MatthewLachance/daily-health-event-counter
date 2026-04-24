@@ -153,4 +153,7 @@ Appuyez sur <strong>Importer</strong> pour restaurer un historique précédemmen
 
 <p>La réinitialisation remet le compteur à zéro. L’effacement supprime les données enregistrées pour la journée. Pour l’historique (tendances), il est important de distinguer les jours avec zéro événement des jours sans données enregistrées.</p>
 
+<strong>Existe-t-il une politique de confidentialité pour cette application&nbsp;?</strong>
+
+<p>Oui, vous pouvez consulter la politique de confidentialité <a href="https://matthewlachance.github.io/daily-health-event-counter/confidentialite/">ici</a></p>
 </details>
