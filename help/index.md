@@ -47,8 +47,8 @@ All data is saved locally on your phone.
 <br>
   
 <ul>
-  <li>Tap <strong><span style="font-size: 18px;">+</span></strong> to add one to the counter</li>
-  <li>Tap <strong><span style="font-size: 18px;">-</span></strong> to reduce the counter by one</li>
+  <li>Tap <strong>+</strong> to add one to the counter</li>
+  <li>Tap <strong>-</strong> to reduce the counter by one</li>
   <li>Use <strong>Reset</strong> to set the counter back to zero (you’ll be asked to confirm)</li>
   <li>Use <strong>Clear data</strong> to remove all entries for this day (you’ll be asked to confirm)</li>
 </ul>
@@ -78,7 +78,6 @@ All data is saved locally on your phone.
 </ul>
 
 </details>
-
 <!-- Anchor target -->
 <a id="pro-features"></a>
 <details>
@@ -160,9 +159,10 @@ date,count<br>
 <details>
   <summary><strong>How to Import</strong></summary>
 <br>
-<p>Use Import to recover previously backed up event counts or to load historical daily event counts from another source.<p> 
+<p>Use Import to recover previously backed up event counts or to load historical daily event counts from another source.</p> 
 
 <p>The format of the file expected by Import is the same as described above for Export. Be sure to include the header line exactly as above and dates that are in the past (not future).</p>
+
 </details>
 
 <details>
@@ -172,5 +172,6 @@ date,count<br>
 <strong>What's the difference between resetting the counter for the day and clearing the counter for the day?<strong>
 
 <p>A reset adjusts the counter to zero. A clearing of data removes data recorded for that day. For history (trends) it may be important to distinguish between days that have zero events and days where no events were recorded.</p>
+
 </details>
 
