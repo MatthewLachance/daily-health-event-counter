@@ -1,4 +1,4 @@
-# Aide – Application Daily Health Event Counter pour Android
+# Aide – Compteur d’événements de santé (Android)
 
 <details open>
   <summary><strong>Démarrage rapide</strong></summary>
