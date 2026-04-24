@@ -78,11 +78,10 @@ All data is saved locally on your phone.
 </ul>
 
 </details>
-<!-- Anchor target -->
-<a id="pro-features"></a>
+
 <details>
   <summary><strong>Pro Features</strong></summary>
-<br>
+<a id="pro-features"></a>
 
 The following features may require an upgrade to the Pro tier.
 
