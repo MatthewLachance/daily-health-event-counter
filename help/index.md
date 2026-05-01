@@ -157,5 +157,9 @@ Tap <strong>Import</strong> to recover previously backed up history or to load h
 
 <p>Yes, you can find the privacy policy <a href="https://matthewlachance.github.io/daily-health-event-counter/">here</a></p>
 
+<strong>How do I clear all history?</strong>
+
+<p>Clear the history (the current day and all past days) by selecting 'clear data' in the storage section of the App info section in Android settings</p>
+
 </details>
 
